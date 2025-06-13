@@ -41,7 +41,6 @@ if __name__ == "__main__":
     output_dir = os.path.join(input_dir, "parameter_convergence_plots") 
     os.makedirs(output_dir, exist_ok=True)
     
-# <<< CHANGEMENT: Ré-import de la fonction de scaling
     ref_results_file = os.path.join(input_dir, "results_2high_ecut.json")
 
     # --- Load Data ---
