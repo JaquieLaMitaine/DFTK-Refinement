@@ -26,7 +26,6 @@ pl.rcParams.update({
 # ---
 
 # --- Configuration ---
-# <<< CHANGEMENT: Facteurs sur lesquels on va moyenner le score >>>
 ECUT_FACTORS_TO_AVERAGE = [0.225, 0.250, 0.275]
 NU_PRIME_WEIGHT_B0 = 5.7381
 NU_PRIME_WEIGHT_B1 = 1.5522
