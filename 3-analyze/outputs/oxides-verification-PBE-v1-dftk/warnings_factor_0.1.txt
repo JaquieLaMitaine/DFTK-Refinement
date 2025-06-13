@@ -1,0 +1,53 @@
+WARNING! High fit residuals: 0.08816115822900575 for Ba XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.03307164165034793 for Ba XO
+WARNING! High fit residuals: 0.018879029414241886 for Zr XO2
+WARNING! Unable to fit PRE-REFINEMENT data for Zr XO2
+WARNING! High fit residuals: 0.047161452414371224 for Ca X2O
+WARNING! Unable to fit PRE-REFINEMENT data for Ca X2O
+WARNING! Unable to fit for H X2O
+WARNING! Unable to fit PRE-REFINEMENT data for H X2O
+WARNING! High fit residuals: 0.02392776290797819 for Sr XO
+WARNING! Unable to fit PRE-REFINEMENT data for Sr XO
+WARNING! High fit residuals: 0.005884200343255014 for Ca XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.3102784466915562 for Ca XO
+WARNING! High fit residuals: 0.1147931288029097 for Cs X2O
+WARNING! Unable to fit PRE-REFINEMENT data for Cs X2O
+WARNING! High fit residuals: 0.07523040596938389 for Be XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.10080457300841081 for Be XO
+WARNING! High fit residuals: 0.4392341884611582 for Tl X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.2799353528579858 for Tl X2O
+WARNING! High fit residuals: 0.028663426612260567 for Li X2O
+WARNING! Unable to fit PRE-REFINEMENT data for Li X2O
+WARNING! High fit residuals: 0.4992721826807351 for Pb XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.3785868040089992 for Pb XO
+WARNING: Could not extract refined energy for Hf-XO2 (calc PK: 189998). Error: NotExistentAttributeError
+WARNING: Could not extract Ecut for Hf-XO2
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=193845. Skipping property extraction.
+WARNING! Some refined energies are None for Hf-XO2. Skipping refined fit.
+WARNING! High fit residuals: 0.036156983101574794 for Rb X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.16648770585259728 for Rb X2O
+WARNING! High fit residuals: 0.16448778247112658 for Ge XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.2108645242655186 for Ge XO
+WARNING! High fit residuals: 0.22904152121237314 for Sn XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.226990709870148 for Sn XO
+WARNING! High fit residuals: 0.0537490359039061 for Si XO
+WARNING! Unable to fit PRE-REFINEMENT data for Si XO
+WARNING! High fit residuals: 0.03988419790912455 for Ti XO2
+WARNING! High PRE-REFINEMENT fit residuals: 0.5049826859532048 for Ti XO2
+WARNING! Unable to fit for Be X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.2102786108387289 for Be X2O
+WARNING! High fit residuals: 0.02053782534937255 for Po XO2
+WARNING! High PRE-REFINEMENT fit residuals: 0.7196005947945785 for Po XO2
+WARNING! High fit residuals: 0.7721204429383152 for Mg XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.7502882472027412 for Mg XO
+
+Counter of states: Counter({'finished.0': 20, 'finished.400': 17})
+
+Minimum completely off for 6/19
+Completely off systems (symbol indicates if the minimum is on the very left or right):
+- H X2O (>)
+- Ca XO (>)
+- Tl X2O (<)
+- Sn XO (>)
+- Be X2O (>)
+- Po XO2 (<)

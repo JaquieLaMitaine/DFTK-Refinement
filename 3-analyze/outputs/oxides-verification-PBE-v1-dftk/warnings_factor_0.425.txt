@@ -1,0 +1,9 @@
+WARNING: Could not extract refined energy for Mg-X2O (calc PK: 238199). Error: NotExistentAttributeError
+WARNING: Could not extract Ecut for Mg-X2O
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=239202. Skipping property extraction.
+WARNING! Some refined energies are None for Mg-X2O. Skipping refined fit.
+
+Counter of states: Counter({'finished.0': 36, 'finished.400': 1})
+
+Minimum completely off for 0/35
+Completely off systems (symbol indicates if the minimum is on the very left or right):
