@@ -1,6 +1,8 @@
-#aiida-common-workflows v1.0.*
+aiida-common-workflows (refinement fork: https://github.com/Technici4n/aiida-common-workflows/tree/refinement)
 numpy
 matplotlib
 tqdm
 ase
+aiida-dftk (refinement branch)
+
 git+https://github.com/aiidateam/aiida-submission-controller@v0.1.2#egg=aiida_submission_controller
