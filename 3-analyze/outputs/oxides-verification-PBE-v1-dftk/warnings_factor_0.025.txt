@@ -1,0 +1,12 @@
+WARNING! Unable to fit for Rb X2O
+WARNING! Unable to fit PRE-REFINEMENT data for Rb X2O
+WARNING! Unable to fit for Cs X2O
+WARNING! Unable to fit PRE-REFINEMENT data for Cs X2O
+WARNING! High fit residuals: 0.30080099548790806 for Ca X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.4237650142390821 for Ca X2O
+
+Counter of states: Counter({'finished.400': 34, 'finished.0': 3})
+
+Minimum completely off for 1/3
+Completely off systems (symbol indicates if the minimum is on the very left or right):
+- Cs X2O (>)

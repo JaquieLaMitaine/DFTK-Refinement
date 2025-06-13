@@ -1,0 +1,26 @@
+WARNING! High PRE-REFINEMENT fit residuals: 0.013957736539941009 for Zn XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.0065856464458486 for Na X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.0014948447357451562 for Fe XO2
+WARNING! High PRE-REFINEMENT fit residuals: 0.015931947916035524 for Zn X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.01718831673192235 for Mg XO
+WARNING: Could not extract refined energy for W-XO3 (calc PK: 192357). Error: NotExistentAttributeError
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=194006. Skipping property extraction.
+WARNING: Could not extract refined energy for W-XO3 (calc PK: 192357). Error: NotExistentAttributeError
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=194011. Skipping property extraction.
+WARNING: Could not extract refined energy for W-XO3 (calc PK: 192357). Error: NotExistentAttributeError
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=194012. Skipping property extraction.
+WARNING: Could not extract refined energy for W-XO3 (calc PK: 192357). Error: NotExistentAttributeError
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=194033. Skipping property extraction.
+WARNING: Could not extract refined energy for W-XO3 (calc PK: 192357). Error: NotExistentAttributeError
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=194131. Skipping property extraction.
+WARNING: Could not extract refined energy for W-XO3 (calc PK: 192357). Error: NotExistentAttributeError
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=194034. Skipping property extraction.
+WARNING! Some refined energies are None for W-XO3. Skipping refined fit.
+WARNING! High PRE-REFINEMENT fit residuals: 0.011175178223177583 for Ge XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.009765407768219098 for Se XO2
+WARNING! High PRE-REFINEMENT fit residuals: 0.042146568971572554 for Mg X2O
+
+Counter of states: Counter({'finished.0': 35, 'finished.400': 2})
+
+Minimum completely off for 0/34
+Completely off systems (symbol indicates if the minimum is on the very left or right):

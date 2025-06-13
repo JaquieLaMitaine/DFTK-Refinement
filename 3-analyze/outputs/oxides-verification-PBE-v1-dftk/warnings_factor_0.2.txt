@@ -1,0 +1,59 @@
+WARNING! High PRE-REFINEMENT fit residuals: 0.005736093903510171 for Ba XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.010214976976575321 for Sr XO
+WARNING! High fit residuals: 0.09059850823695023 for Se XO2
+WARNING! High PRE-REFINEMENT fit residuals: 0.1290669643406248 for Se XO2
+WARNING! High PRE-REFINEMENT fit residuals: 0.06443004252862623 for Tl X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.024081235697948424 for Ru XO2
+WARNING! High PRE-REFINEMENT fit residuals: 0.01349028263725501 for Zr XO2
+WARNING! High fit residuals: 0.0014251018931480577 for Si XO2
+WARNING! High PRE-REFINEMENT fit residuals: 0.020496641159809103 for Si XO2
+WARNING! High PRE-REFINEMENT fit residuals: 0.03341367010921009 for Si XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.1676757357467006 for Li X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.0022282760755900455 for H X2O
+WARNING! Unable to fit PRE-REFINEMENT data for Ti XO2
+WARNING: Could not extract refined energy for Na-X2O (calc PK: 192712). Error: NotExistentAttributeError
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=193654. Skipping property extraction.
+WARNING: Could not extract refined energy for Na-X2O (calc PK: 192712). Error: NotExistentAttributeError
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=193636. Skipping property extraction.
+WARNING: Could not extract refined energy for Na-X2O (calc PK: 192712). Error: NotExistentAttributeError
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=193669. Skipping property extraction.
+WARNING: Could not extract refined energy for Na-X2O (calc PK: 192712). Error: NotExistentAttributeError
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=193638. Skipping property extraction.
+WARNING: Could not extract refined energy for Na-X2O (calc PK: 192712). Error: NotExistentAttributeError
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=193670. Skipping property extraction.
+WARNING! Some refined energies are None for Na-X2O. Skipping refined fit.
+WARNING! High fit residuals: 0.14529649558687974 for Mg XO
+WARNING! Unable to fit PRE-REFINEMENT data for Mg XO
+WARNING! High fit residuals: 0.0033066457474854208 for Be XO
+WARNING! Unable to fit PRE-REFINEMENT data for Be XO
+WARNING! High fit residuals: 0.0011718425213981154 for Ca X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.032465655158892305 for Ca X2O
+WARNING! High fit residuals: 0.21876282937320266 for Ge XO
+WARNING! Unable to fit PRE-REFINEMENT data for Ge XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.007018942311248517 for W XO3
+WARNING! High fit residuals: 0.011069367945463376 for C XO
+WARNING! Unable to fit PRE-REFINEMENT data for C XO
+WARNING! High fit residuals: 0.0015668777261430087 for Ti X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.03800573239804354 for Ti X2O
+WARNING! High fit residuals: 0.026978999260050783 for Sn XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.29685527202547585 for Sn XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.03838064974155055 for Os XO2
+WARNING! High fit residuals: 0.0044536322326592555 for Te XO2
+WARNING! Unable to fit PRE-REFINEMENT data for Te XO2
+WARNING! High PRE-REFINEMENT fit residuals: 0.034302624439300745 for Rb X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.015530016722376772 for Po XO2
+WARNING! High fit residuals: 0.057858710225157615 for Mg X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.08180633813322878 for Mg X2O
+WARNING! High fit residuals: 0.019782396538598902 for Be X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.02418735552844562 for Be X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.011934677277278516 for Hf XO2
+WARNING! High PRE-REFINEMENT fit residuals: 0.023352942758299248 for Ca XO
+WARNING! High PRE-REFINEMENT fit residuals: 0.1303374575618247 for Sr X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.012517658618684282 for Ir X2O3
+WARNING! High fit residuals: 0.00107167388356993 for Cs X2O
+WARNING! High PRE-REFINEMENT fit residuals: 0.2836920853490601 for Cs X2O
+
+Counter of states: Counter({'finished.0': 32, 'finished.400': 5})
+
+Minimum completely off for 0/31
+Completely off systems (symbol indicates if the minimum is on the very left or right):

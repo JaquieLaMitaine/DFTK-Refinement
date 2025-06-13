@@ -1,0 +1,13 @@
+WARNING: Could not extract refined energy for Te-XO2 (calc PK: 191382). Error: NotExistentAttributeError
+WARNING: Could not extract Ecut for Te-XO2
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=194137. Skipping property extraction.
+WARNING! Some refined energies are None for Te-XO2. Skipping refined fit.
+WARNING: Could not extract refined energy for Be-X2O (calc PK: 237931). Error: NotExistentAttributeError
+WARNING: Could not extract Ecut for Be-X2O
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=238912. Skipping property extraction.
+WARNING! Some refined energies are None for Be-X2O. Skipping refined fit.
+
+Counter of states: Counter({'finished.0': 36, 'finished.400': 1})
+
+Minimum completely off for 0/34
+Completely off systems (symbol indicates if the minimum is on the very left or right):

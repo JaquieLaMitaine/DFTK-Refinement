@@ -1,0 +1,13 @@
+WARNING: Could not extract refined energy for Fe-XO2 (calc PK: 192295). Error: NotExistentAttributeError
+WARNING: Could not extract Ecut for Fe-XO2
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=194563. Skipping property extraction.
+WARNING! Some refined energies are None for Fe-XO2. Skipping refined fit.
+WARNING: Could not extract refined energy for Os-XO2 (calc PK: 238090). Error: NotExistentAttributeError
+WARNING: Could not extract Ecut for Os-XO2
+ERROR: Found 0 'output_parameters' nodes for DftkBaseWorkChain PK=238998. Skipping property extraction.
+WARNING! Some refined energies are None for Os-XO2. Skipping refined fit.
+
+Counter of states: Counter({'finished.0': 36, 'finished.400': 1})
+
+Minimum completely off for 0/34
+Completely off systems (symbol indicates if the minimum is on the very left or right):
